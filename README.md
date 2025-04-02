@@ -15,16 +15,14 @@
 
 ###
 
-
-###
-
 <h1 align="center">Hey there 👋, I'm Omar Mashaly</h1>
+<h3 align="center"> Data Scientist | Football Analytics Enthusiast</h3>
 
 ###
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-<p align="left">I'm a data scientist passionate about using machine learning to solve real-world problems. Currently, I'm an undergraduate at Egypt-Japan University of Science and Technology (E-JUST), specializing in AI and data science.<br><br>
+<p align="left">I'm a data scientist and AI researcher passionate about using machine learning to solve real-world problems. Currently, I'm an undergraduate at Egypt-Japan University of Science and Technology (E-JUST), specializing in AI and data science.<br><br>
 
 - 🔭 I’m working on AI applications in healthcare and football analytics.<br>
 - 📚 I'm currently exploring deep learning, reinforcement learning, and advanced analytics for sports and neuroscience.<br>
@@ -49,6 +47,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-Learn" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="Seaborn" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="40" alt="Hugging Face" />
 </div>
 
 ###
@@ -57,8 +63,14 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar10lfc&theme=dark" height="220" alt="Streak Graph" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar10lfc&layout=compact&theme=dark" height="150" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar10lfc&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
 
 ###
+
+
 
 
