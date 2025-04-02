@@ -16,7 +16,7 @@
 ###
 
 <h1 align="center">Hey there 👋, I'm Omar Mashaly</h1>
-<h3 align="center"> Data Scientist | Football Analytics Enthusiast</h3>
+<h3 align="center">AI Researcher | Data Scientist | Football Analytics Enthusiast</h3>
 
 ###
 
@@ -48,13 +48,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-Learn" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-Learn" />
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="40" alt="Seaborn" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="Seaborn" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="40" alt="Hugging Face" />
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="40" alt="Hugging Face" />
 </div>
 
 ###
@@ -62,15 +60,11 @@
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar10lfc&theme=dark" height="220" alt="Streak Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Omar10lfc&theme=dark&hide_border=true" height="220" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar10lfc&layout=compact&theme=dark" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar10lfc&layout=compact&theme=dark&exclude_repo=Jupyter-Notebooks" height="150" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar10lfc&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar10lfc&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ###
-
-
-
-
