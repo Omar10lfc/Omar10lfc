@@ -16,7 +16,7 @@
 ###
 
 <h1 align="center">Hey there 👋, I'm Omar Mashaly</h1>
-<h3 align="center">AI Researcher | Data Scientist | Football Analytics Enthusiast</h3>
+<h3 align="center">Data Scientist | Football Analytics Enthusiast</h3>
 
 ###
 
