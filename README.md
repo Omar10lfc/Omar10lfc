@@ -42,7 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height:30px; width:auto;" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:30px; width:auto;" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height:30px; width:auto;" alt="Docker" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Streamlit_logo_icon.svg" style="height:30px; width:auto;" alt="Streamlit" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="height:30px; width:auto;" alt="Scikit-Learn" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/512px-Matplotlib_icon.svg.png" style="height:30px; width:auto;" alt="Matplotlib" />
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" style="height:30px; width:auto;" alt="Hugging Face" />
