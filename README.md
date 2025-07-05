@@ -49,20 +49,10 @@
 
 ###
 
-<h3 align="left">📂 Featured Projects</h3>
-
-<ul>
-  <li><a href="https://github.com/Omar10lfc/diabetes-predictor-streamlit">🩺 Diabetes Prediction App</a> — ML-powered diagnostic tool built with Streamlit</li>
-  <li><a href="https://github.com/Omar10lfc/audio-classification">🎧 Audio Classification</a> — Deep learning models to classify environmental sounds</li>
-  <li><a href="https://github.com/Omar10lfc/generative-drug-discovery">💊 Generative Models for Drug Discovery</a> — Leveraging deep generative networks in bioinformatics</li>
-</ul>
-
-###
-
 <h3 align="left">📬 Contact Me</h3>
 
 <p align="left">
-  Feel free to reach out via <a href="mailto:omarmashaly86@gmail.com">email</a> or connect on <a href="https://www.linkedin.com/in/omar-mashaly">LinkedIn</a>.
+  Feel free to reach out via <a href="mailto:omarmashaly86@gmail.com">email</a>.
 </p>
 
 ###
