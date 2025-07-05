@@ -1,14 +1,15 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
+
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omar-mashaly">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Omar10lfc">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub"  />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub" />
   </a>
 </div>
 
@@ -21,11 +22,13 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-<p align="left">I'm a data scientist passionate about using machine learning and deep learning to solve real-world problems. Currently, I'm an undergraduate at Egypt-Japan University of Science and Technology (E-JUST), specializing in AI and data science.<br><br>
+<p align="left">
+  I'm a data scientist passionate about leveraging machine learning and deep learning to solve real-world problems. <br><br>
+  I'm currently a final-year undergraduate at Egypt-Japan University of Science and Technology (E-JUST), specializing in AI and data science. <br><br>
 
-- 🔭 I’m working on AI applications in healthcare and football analytics.<br>
-- 📚 I'm currently exploring deep learning, reinforcement learning, and advanced analytics for sports and neuroscience.<br>
-- ⚡ In my free time, I enjoy analyzing football data, designing websites, and keeping up with Liverpool FC! ⚽🔥
+  - 🔭 Currently working on AI applications in healthcare and football analytics  
+  - 📚 Exploring deep learning, reinforcement learning, and advanced analytics in sports and neuroscience  
+  - ⚡ In my free time, I enjoy analyzing football data, designing websites, and supporting Liverpool FC ⚽🔥  
 </p>
 
 ###
@@ -45,14 +48,32 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Streamlit_logo_icon.svg" height="40" alt="Streamlit" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-Learn" />
   <img width="12" />
-  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="40" alt="Seaborn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/512px-Matplotlib_icon.svg.png" height="40" alt="Matplotlib" />
   <img width="12" />
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="40" alt="Hugging Face" />
 </div>
+
+###
+
+<h3 align="left">📂 Featured Projects</h3>
+
+<ul>
+  <li><a href="https://github.com/Omar10lfc/diabetes-predictor-streamlit">🩺 Diabetes Prediction App</a> — ML-powered diagnostic tool built with Streamlit</li>
+  <li><a href="https://github.com/Omar10lfc/audio-classification">🎧 Audio Classification</a> — Deep learning models to classify environmental sounds</li>
+  <li><a href="https://github.com/Omar10lfc/generative-drug-discovery">💊 Generative Models for Drug Discovery</a> — Leveraging deep generative networks in bioinformatics</li>
+</ul>
+
+###
+
+<h3 align="left">📬 Contact Me</h3>
+
+<p align="left">
+  Feel free to reach out via <a href="mailto:omarmashaly86@gmail.com">email</a> or connect on <a href="https://www.linkedin.com/in/omar-mashaly">LinkedIn</a>.
+</p>
 
 ###
 
@@ -60,10 +81,8 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Omar10lfc&theme=dark&hide_border=true" height="220" alt="GitHub Streak" />
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar10lfc&layout=compact&theme=dark&exclude_repo=Jupyter-Notebooks" height="150" alt="Top Languages" />
-  <br>
+  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar10lfc&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
 </div>
-
-###
