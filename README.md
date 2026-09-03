@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left">📬 Contact Me</h3>
+<h3 align="left">Contact Me</h3>
 
 <p align="left">
   Feel free to reach out via <a href="mailto:omarmashaly86@gmail.com">email</a>.
