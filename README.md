@@ -16,19 +16,20 @@
 ###
 
 <h1 align="center">Hey there 👋, I'm Omar Mohammed Mashaly</h1>
-<h3 align="center"> AI Engineer | Data Scientist | Football Analytics Enthusiast</h3>
+<h3 align="center">AI Engineer | Arabic NLP & RAG | AWS AI & ML Scholar</h3>
 
 ###
 
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  I'm a data scientist passionate about leveraging machine learning and deep learning to solve real-world problems. <br><br>
-  I'm currently a final-year undergraduate at Egypt-Japan University of Science and Technology (E-JUST), specializing in AI and data science. <br><br>
+  I build AI systems that ship — RAG pipelines, multi-agent architectures, and Arabic NLP models grounded in production constraints, not just notebooks. <br><br>
+  I graduated in Computer Science (AI & Data Science) from Egypt-Japan University of Science and Technology (E-JUST), and I'm starting an M.Sc. in AI & Data Science there this Fall on a TA scholarship. <br><br>
 
-  - 🔭 Currently working on AI applications in healthcare and football analytics  
-  - 📚 Exploring deep learning, reinforcement learning, and advanced analytics in sports and neuroscience  
-  - ⚡ In my free time, I enjoy analyzing football data, designing websites, and supporting Liverpool FC ⚽🔥  
+  - 🔭 Building RAG and multi-agent systems, with a focus on Arabic NLP and operations optimization
+  - 📚 Starting my M.Sc. in AI & Data Science at E-JUST (Fall 2026)
+  - 🌍 Looking for AI/ML Engineer roles across Egypt, MENA, and remote
+  - ⚡ Outside of work, I follow football data and support Liverpool FC ⚽🔥
 </p>
 
 ###
