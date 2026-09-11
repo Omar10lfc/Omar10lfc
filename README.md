@@ -29,7 +29,7 @@
   - 🔭 Building RAG and multi-agent systems, with a focus on Arabic NLP and operations optimization
   - 📚 Starting my M.Sc. in AI & Data Science at E-JUST (Fall 2026)
   - 🌍 Looking for AI/ML Engineer roles across Egypt, MENA, and remote
-  - ⚡ Outside of work, I follow football data and support Liverpool FC ⚽🔥
+  - ⚡ Outside of work, I follow football data and support Liverpool FC ⚽
 </p>
 
 ###
