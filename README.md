@@ -26,10 +26,9 @@
   I build AI systems that ship — RAG pipelines, multi-agent architectures, and Arabic NLP models grounded in production constraints, not just notebooks. <br><br>
   I graduated in Computer Science (AI & Data Science) from Egypt-Japan University of Science and Technology (E-JUST). <br><br>
 
-  - 🔭 Building RAG and multi-agent systems, with a focus on Arabic NLP and operations optimization
-  - 📚 Starting my M.Sc. in AI & Data Science at E-JUST (Fall 2026)
-  - 🌍 Looking for AI/ML Engineer roles across Egypt, MENA, and remote
-  - ⚡ Outside of work, I follow football data and support Liverpool FC ⚽
+  - Building RAG and multi-agent systems, with a focus on Arabic NLP and operations optimization
+  - Looking for AI/ML Engineer roles across Egypt, MENA, and remote
+  - Outside of work, I follow football data and support Liverpool FC ⚽
 </p>
 
 ###
