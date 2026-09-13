@@ -23,7 +23,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  I build AI systems that ship — RAG pipelines, multi-agent architectures, and Arabic NLP models grounded in production constraints, not just notebooks. <br><br>
+  I build AI systems that ship RAG pipelines, multi-agent architectures, and Arabic NLP models grounded in production constraints, not just notebooks. <br><br>
   I graduated in Computer Science (AI & Data Science) from Egypt-Japan University of Science and Technology (E-JUST). <br><br>
 
   - Building RAG and multi-agent systems, with a focus on Arabic NLP and operations optimization
