@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:30px; width:auto;" alt="Python" />
