@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
 <p align="left">
   I build AI systems that ship RAG pipelines, multi-agent architectures, and Arabic NLP models grounded in production constraints, not just notebooks. <br><br>
