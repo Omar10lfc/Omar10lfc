@@ -28,7 +28,7 @@
 
   - Building RAG and multi-agent systems, with a focus on Arabic NLP and operations optimization
   - Looking for AI/ML Engineer roles across Egypt, MENA, and remote
-  - Outside of work, I follow football data and support Liverpool FC ⚽
+  - Outside of work, I follow football data and support Liverpool FC
 </p>
 
 ###
