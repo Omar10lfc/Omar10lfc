@@ -16,7 +16,7 @@
 ###
 
 <h1 align="center">Hey there 👋, I'm Omar Mohammed Mashaly</h1>
-<h3 align="center">AI Engineer | Arabic NLP & RAG | AWS AI & ML Scholar</h3>
+<h3 align="center">AI Engineer | AWS AI & ML Scholar</h3>
 
 ###
 
