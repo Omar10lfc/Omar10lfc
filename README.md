@@ -22,7 +22,7 @@
 
 ### About Me
 
-I build RAG pipelines, multi-agent systems, and Arabic NLP models, and I test each one against real constraints: latency, eval sets, and deployment. I graduated in Computer Science (AI & Data Science) from Egypt-Japan University of Science and Technology (E-JUST) and I'm pursuing an M.Sc. in AI & Data Science there.
+I build RAG pipelines, multi-agent systems, and Arabic NLP models, and I test each one against real constraints: latency, eval sets, and deployment. I graduated in Computer Science (AI & Data Science) from Egypt-Japan University of Science and Technology (E-JUST).
 
 - Building RAG and multi-agent systems, with a focus on Arabic NLP and operations optimization
 - Looking for AI/ML Engineer roles across Egypt, MENA, and remote
