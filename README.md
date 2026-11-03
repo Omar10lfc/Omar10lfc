@@ -60,7 +60,7 @@ I build RAG pipelines, multi-agent systems, and Arabic NLP models, and I test ea
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="30" alt="Hugging Face" />
 </p>
 
-LangGraph · FAISS · Hugging Face Transformers · Groq · Next.js
+LangGraph · FAISS · Hugging Face Transformers · Groq 
 
 ---
 
